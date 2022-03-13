@@ -20,12 +20,12 @@
 
 
 # 📖 Sobre
-O DS Movie tem por objetivo fazer com que o usuário faça avaliações de filmes . Durante o desenvolvimento foi criada uma API com três métodos
+O DS Movie tem por objetivo fazer com que o usuário faça avaliações de filmes. Durante o desenvolvimento foi criada uma API com três métodos
 
 
 - GET /movies: retorna todos os filmes com paginação;
 - GET /movie-by-id: retorna um filme;
-- PUT /amount-by-seller: retorna a quantia obtida das vendas de cada vendedor;
+- PUT /scores: Adiciona um novo score para o filme;
 
 <h1>🛠 Tecnologias</h1>
 
